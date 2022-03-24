@@ -123,7 +123,7 @@ export default {
       padding: 10px 20px 20px;
       text-align: right;
       box-sizing: border-box;
-      //   ::v-deep 相当less中的/deep/
+      // 深度选择器 scss的  ::v-deep 相当less中的/deep/
       ::v-deep .d-button:first-child {
         margin-right: 20px;
       }
